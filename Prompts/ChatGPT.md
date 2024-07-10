@@ -1,0 +1,1 @@
+Crie uma estrutura de dados para criarmos um podcast breve, o projeto será montado com as tecnologias : chatgpt, lexia.art , notion.so, capcut e elevenlabs narrador. Deverá conter uma pasta Assets para as imagens utilizadas e uma pasta para prompts que utilizarei aqui 
