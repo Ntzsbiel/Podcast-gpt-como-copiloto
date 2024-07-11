@@ -3,7 +3,7 @@
 ## Visão Geral ℹ️
 Este repositório trata-se de um podcast sobre o ChatGPT como parceiro de código! Aqui você vai encontrar muita conversa boa sobre como a inteligência artificial tá dando aquele help essencial no desenvolvimento de código.
 
-Se você curte tecnologia e quer saber porque o ChatGPT pode ser um verdadeiro aliado na hora de programar, você veio ao lugar certo!
+Se você curte tecnologia e quer saber porque o ChatGPT pode ser um verdadeiro aliado na hora de acelarar processos, você veio ao lugar certo!
 
 [Clique aqui para abrir o post do podcast](https://www.instagram.com/reel/C9QlWbvJDbd/?igsh=MTc4ZWg5ZWU3YXJ3aA==)
 ## Tecnologias Utilizadas 🛠️
